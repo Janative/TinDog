@@ -19,6 +19,18 @@ h1 {
   font-weight: 900;
 }
 
+h2 {
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+line-height: 1.5;
+font-size: 3rem;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
 .download-icon {
   width:1em;
   background-color: white;
@@ -79,13 +91,47 @@ transform: rotate(25deg);
 color:#ff4c68;
 }
 
-.feature-h3 {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-  font-size: 1.5rem;
-}
+
 
 
 .feature-col {
   padding:5%;
+}
+
+/* Testimonials section*/
+
+#testimonials {
+  padding:7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+ /*Pres section*/
+
+ #press {
+background-color: #ef8172;
+text-align: center;
+padding-bottom: 3%;
+ }
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 20px 50px;
+
+}
+/*Pricing section*/
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
 }
