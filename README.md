@@ -1,2 +1,2 @@
 # TinDog
-Udemy project
+Udemy project  |   Bootstrap challenge
