@@ -141,3 +141,34 @@ padding-bottom: 3%;
 .pricing-column {
   padding: 3% 2%;
 }
+
+@media (max-width: 1028px) {
+
+#title {
+  text-align: center;
+}
+
+.title-image {
+  position: static;
+  transform: rotate(0deg);
+}
+}
+
+/*Call to action section*/
+#cta {
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+  padding: 100px 300px;
+}
+
+/*Footer*/
+#footer {
+  padding: 100px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.social-icon {
+  padding: 20px 10px;
+}
